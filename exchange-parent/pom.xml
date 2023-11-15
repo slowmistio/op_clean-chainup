@@ -14,7 +14,7 @@
        <fastjson.version>1.2.28</fastjson.version>
        <springframework.version>4.2.2.RELEASE</springframework.version>
        <spring-websocket.version>4.1.6.RELEASE</spring-websocket.version>
-       <spring-rabbit.version>1.7.4.RELEASE</spring-rabbit.version>
+       <spring-rabbit.version>2.1.0.RELEASE</spring-rabbit.version>
        <spring-session-data-redis.version>1.2.1.RELEASE</spring-session-data-redis.version>
        <quartz.version>2.2.2</quartz.version>
        <mybatis.version>3.4.0</mybatis.version>
